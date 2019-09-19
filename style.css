@@ -108,8 +108,8 @@ p{
   color: white;
 }
 img{
-  height:400px;
-  width: 400px;
+  height:350px;
+  width: 350px;
 }
 
 .container{
@@ -159,7 +159,7 @@ img{
     padding: 10px;
     grid-column-gap: 10px;
   }
-  
+
   .white{
   color:white;
   }
