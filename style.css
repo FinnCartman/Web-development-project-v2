@@ -91,10 +91,11 @@ li a:hover {
   grid-template-columns: auto auto auto;
   grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
 
-  background-color: ##003366;
+  background-color: #003366;
   padding: 10px;
   grid-column-gap: 10px;
 }
+
 .cell{
   background-color: #003366;
   border: 3px solid gold;
@@ -108,7 +109,7 @@ p{
 }
 img{
   height:400px;
-  width: 400px'
+  width: 400px;
 }
 
 .container{
@@ -145,21 +146,20 @@ img{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-columns: repeat(auto-fit, minmax(650px, 1fr));
-    background-color: ##003366;
+    background-color: #003366;
     padding: 10px;
     grid-column-gap: 10px;
   }
-}
 
-}
 .grid3{
     display: grid;
     grid-template-columns: auto auto auto;
     grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
-    background-color: ##003366;
+    background-color: #003366;
     padding: 10px;
     grid-column-gap: 10px;
   }
+  
   .white{
   color:white;
   }
